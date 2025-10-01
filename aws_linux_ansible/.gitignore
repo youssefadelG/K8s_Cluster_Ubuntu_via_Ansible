@@ -1,2 +1,3 @@
 .aws/*
 inventory.ini
+aws-ec2.pem
