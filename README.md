@@ -49,3 +49,6 @@
 - `k8s-master-setup.yaml` - Master node initialization
 - `add-worker-node.yaml` - Worker node joining
 - `main.yaml` - Complete deployment workflow
+
+
+![alt text](Screenshot_7.png)
